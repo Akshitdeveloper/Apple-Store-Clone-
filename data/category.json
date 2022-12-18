@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "category":"Mac"
+    },
+
+   {
+    "id":2,
+    "category":"iPad"
+   },
+
+   {
+    "id":3,
+    "category":"iPhone"
+
+   },
+
+   {
+    "id":4,
+    "category":"Watch"
+   },
+
+   {
+    "id":5,
+    "category":"AirPods"
+   },
+
+   {
+    "id":6,
+    "category":"TV & Home"
+   }
+
+]
